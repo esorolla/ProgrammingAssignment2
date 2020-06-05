@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## This function caches the calculation of a certain function on a
+## matrix object.
 
 ## Write a short comment describing this function
 
